@@ -1,6 +1,6 @@
 export const heroData = {
     greeting: "Hello, I'am",
-    name: "Kaneki",
+    name: "Gopal",
     roles: [
         "Frontend Developer",
         "UI/UX Designer",
@@ -8,9 +8,9 @@ export const heroData = {
     ],
     description: "Crafting exceptional digital experiences with modern technologies, I specialize in building beautiful, functional, and user-friendly web applications that make a lasting impact.",
     stats: [
-        { number: "5+", label: "Years Experience"},
-        { number: "50+", label: "Projects "},
-        { number: "100+", label: "Client Satisfaction"}
+        { number: "1+", label: "Years Experience"},
+        { number: "5+", label: "Projects "},
+        { number: "10+", label: "Client Satisfaction"}
     ],
     socialLinks: [
         {
